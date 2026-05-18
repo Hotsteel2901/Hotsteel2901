@@ -22,3 +22,4 @@
 <img src="https://img.shields.io/badge/LINUX-YES-ff073a?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d" />
 
 </div>
+![](https://raw.githubusercontent.com/这里更换为你的 GitHub ID/Hotsteel2901/main/assets/github-contribution-grid-snake.svg)
