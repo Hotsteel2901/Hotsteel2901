@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/PYTHON-SOME-ff00ff?style=for-the-badge&logo=python&logoColor=black&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/LINUX-YES-ff073a?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d" />
 
-</div>
 
 ![](https://raw.githubusercontent.com/Hotsteel2901/Hotsteel2901/main/assets/github-contribution-grid-snake.svg)
+
+</div>
+
