@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Hotsteel2901/Hotsteel2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+ ██░ ██  ▒█████  ▄▄▄█████▓  ██████ ▄▄▄█████▓▓█████ ▓█████  ██▓    
+▓██░ ██▒▒██▒  ██▒▓  ██▒ ▓▒▒██    ▒ ▓  ██▒ ▓▒▓█   ▀ ▓█   ▀ ▓██▒    
+▒██▀▀██░▒██░  ██▒▒ ▓██░ ▒░░ ▓██▄   ▒ ▓██░ ▒░▒███   ▒███   ▒██░    
+░▓█ ░██ ▒██   ██░░ ▓██▓ ░   ▒   ██▒░ ▓██▓ ░ ▒▓█  ▄ ▒▓█  ▄ ▒██░    
+░▓█▒░██▓░ ████▓▒░  ▒██▒ ░ ▒██████▒▒  ▒██▒ ░ ░▒████▒░▒████▒░██████▒
+ ▒ ░░▒░▒░ ▒░▒░▒░   ▒ ░░   ▒ ▒▓▒ ▒ ░  ▒ ░░   ░░ ▒░ ░░░ ▒░ ░░ ▒░▓  ░
+ ▒ ░▒░ ░  ░ ▒ ▒░     ░    ░ ░▒  ░ ░    ░     ░ ░  ░ ░ ░  ░░ ░ ▒  ░
+ ░  ░░ ░░ ░ ░ ▒    ░      ░  ░  ░    ░         ░      ░     ░ ░   
+ ░  ░  ░    ░ ░                 ░              ░  ░   ░  ░    ░  ░
+</pre>
 
-Here are some ideas to get you started:
+**hotsteel**  
+[i.r.hotsteel@gmail.com](mailto:i.r.hotsteel@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> `$ INIT_SEQUENCE …` `STATUS: ONLINE` `// NEON_PROTOCOL_ACTIVE`
+
+<img src="https://img.shields.io/badge/C++-NEON-00ffff?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/PYTHON-GLITCH-ff00ff?style=for-the-badge&logo=python&logoColor=black&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/LINUX-SHELL-ff073a?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0d0d" />
+
+</div>
