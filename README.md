@@ -27,7 +27,6 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Hotsteel2901&style=flat-square&color=ff9ecb&label=VISITORS" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Hotsteel2901" />
 
 <br/>
 
