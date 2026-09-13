@@ -54,8 +54,8 @@ Mood    · want to write code ♪
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hotsteel2901&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=ff9ecb&icon_color=b388ff&text_color=e0def4" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hotsteel2901&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=ff9ecb&text_color=e0def4" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hotsteel2901&theme=radical" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hotsteel2901&theme=radical" />
 </div>
 
 <div align="center">
@@ -63,7 +63,7 @@ Mood    · want to write code ♪
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hotsteel2901&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hotsteel2901&theme=radical" />
 </div>
 
 <div align="center">
