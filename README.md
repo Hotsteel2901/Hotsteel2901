@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/C-NOOB-ff9ecb?style=for-the-badge&logo=c&logoColor=white&labelColor=2b2b3c" />
 <img src="https://img.shields.io/badge/Python-SOME-ffd1dc?style=for-the-badge&logo=python&logoColor=white&labelColor=2b2b3c" />
 <img src="https://img.shields.io/badge/CachyOS-ARCH-7ee8fa?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=2b2b3c" />
-<img src="https://img.shields.io/badge/Neovim-btw-b388ff?style=for-the-badge&logo=neovim&logoColor=white&labelColor=2b2b3c" />
+<img src="https://img.shields.io/badge/Vim-btw-b388ff?style=for-the-badge&logo=vim&logoColor=white&labelColor=2b2b3c" />
 
 <br/><br/>
 
@@ -35,8 +35,8 @@ hotsteel@cachyos
 ────────────────────────────────────────
 OS      · CachyOS Linux  (Arch-based, anime tuned)
 Kernel  · linux-cachyos (BORE / performance)
-Shell   · zsh + starship
-Editor  · neovim (btw)
+Shell   · fish + bash
+Editor  · vim (btw)
 Code    · C (noob)  ·  Python (some)
 Mood    · want to write code ♪
 ```
