@@ -18,8 +18,7 @@
 
 <br/><br/>
 
-<img src="./assets/IMG_20260123_234030_457.jpg" width="360" style="border-radius:16px" alt="Hotsteel" />
-<img src="https://www.loliapi.com/acg/" width="360" style="border-radius:16px" alt="random acg" />
+<img src="./assets/IMG_20260123_234030_457.jpg" width="420" style="border-radius:16px" alt="Hotsteel" />
 
 <br/><br/>
 
