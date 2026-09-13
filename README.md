@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e63,50:9d4edd,100:00e5ff&height=200&section=header&text=Hotsteel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%20%E2%80%A2%20Python%20%E2%80%A2%20CachyOS%20%E2%80%A2%20Arch%20Linux&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/Hotsteel2901">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=FF2E63&center=true&vCenter=true&width=520&lines=PLUS+ULTRA%21+%F0%9F%94%A5;C+%2F+Python+training+arc+%E2%9A%94;CachyOS+%C2%B7+Arch+Linux+btw+%F0%9F%90%A7;Nakama+%3E+everything" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=FF2E63&center=true&vCenter=true&width=520&lines=PLUS+ULTRA%21+%F0%9F%94%A5;Hoshino+oshi+%F0%9F%8C%99;C+%2F+Python+training+arc+%E2%9A%94;Yare+yare...+let%27s+nap" alt="typing" />
 </a>
 
 <br/>
@@ -15,10 +15,11 @@
 <img src="https://img.shields.io/badge/OTAKU-lv.MAX-ff2e63?style=for-the-badge&logo=crunchyroll&logoColor=white&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/WEEB-LIFE-9d4edd?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/SHOUNEN-heart-00e5ff?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/HOSHINO-oshi-ff9ecb?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
 
-<img src="./assets/IMG_20260123_234030_457.jpg" width="420" style="border-radius:16px" alt="Hotsteel" />
+<img src="./assets/hoshino.jpg" width="420" style="border-radius:16px" alt="Hoshino (Blue Archive)" />
 
 <br/><br/>
 
@@ -41,15 +42,16 @@
 ```yaml
 hotsteel@cachyos
 ────────────────────────────────────────
-OS      · CachyOS Linux  (Arch-based, shounen tuned)
+OS      · CachyOS Linux  (Arch-based, anime tuned)
 Kernel  · linux-cachyos (BORE / performance)
 Shell   · fish + bash
 Editor  · vim (btw)
 Code    · C (noob)  ·  Python (some)
-Mood    · training arc
+Oshi    · Takanashi Hoshino — Blue Archive
+Mood    · afternoon nap
 ```
 
-> "Go beyond. Plus Ultra."
+> "Yare yare... time for a nap." — Hoshino
 
 ## 🌸 Favorites
 
@@ -57,11 +59,13 @@ Mood    · training arc
 
 | | |
 |:--|:--|
+| 💗 Oshi | Hoshino — Blue Archive |
 | 💻 Language | C (noob) · Python (some) |
 | 🐧 Distro | CachyOS · Arch Linux |
 | ⌨️ Editor | Vim |
 | 🐚 Shell | fish + bash |
 | 🌸 Vibe | shounen · lo-fi · Linux ricing |
+| 😴 Hobby | afternoon naps (Hoshino approved) |
 | 📺 Watching | open to recs ♪ |
 
 </div>
