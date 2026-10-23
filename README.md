@@ -64,7 +64,7 @@ Mood    · afternoon nap
 | 🐧 Distro | CachyOS · Arch Linux |
 | ⌨️ Editor | Vim |
 | 🐚 Shell | fish + bash |
-| 🌸 Vibe | shounen · lo-fi · Linux ricing |
+| 🌸 Vibe | shounen · Black Metal · Linux ricing |
 | 😴 Hobby | afternoon naps (Hoshino approved) |
 | 📺 Watching | open to recs ♪ |
 
